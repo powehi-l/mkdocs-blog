@@ -1,0 +1,8 @@
+site_name: powler's space
+site_url: https://powler.top
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: material
